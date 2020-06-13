@@ -1,0 +1,16 @@
+<style>
+   .leftimg {
+    float:left;
+    margin: 7px 7px 7px 0; 
+   }
+   .rightimg  {
+    float: right; 
+    margin: 7px 0 7px 7px;
+   }
+   
+  </style>
+
+h1 {
+	font-family: arial;
+	size: 100px;
+}
